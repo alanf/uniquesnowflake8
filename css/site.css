@@ -1,0 +1,9 @@
+p, h1, h2, h3, h4 {font-family:"Tahoma",Tahoma,sans-serif;}
+#splash {border: solid #000 5px;width:300px;}
+body {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+}
+ol {width: 500px; margin:auto; text-align:left}
