@@ -11,7 +11,7 @@ a:hover { border-bottom-style: solid; color: black; }
 ul { margin: 0 0 32px 17px; }
 #objective { width: 500px; float: left; }
 #objective p { font-family: Georgia, Serif; font-style: italic; color: #666; }
-dt { font-style: italic; font-weight: bold; font-size: 14px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 80px; border-right: 1px solid #999;  }
+dt { font-style: italic; font-weight: bold; font-size: 14px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 40px; border-right: 1px solid #999;  }
 .clear { padding:none; clear: both; float:none; border:none; height:10px; }
 dd { width: 600px; float: right; }
 dd.clear { float: none; margin: 0; height: 2px; }
